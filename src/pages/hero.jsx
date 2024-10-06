@@ -5,9 +5,9 @@ import { Dialog, DialogPanel } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import logo from "../assets/logo.png";
 const navigation = [
-  { name: "Products", href: "#" },
-  { name: "Resources", href: "#" },
-  { name: "Developers", href: "#" },
+  { name: "Products", href: "https://abhinavgfgfronyend.netlify.app/" },
+  { name: "Resources", href: "https://abhinavgfgfronyend.netlify.app/" },
+  { name: "Developers", href: "https://abhinavgfgfronyend.netlify.app/" },
 ];
 
 export default function Hero() {
@@ -25,10 +25,7 @@ export default function Hero() {
             className="flex items-center justify-between p-6 lg:px-8"
           >
             <div className="flex lg:flex-1">
-              <a
-                href="#"
-                className="-m-1.5 p-1.5"
-              >
+              <a className="-m-1.5 p-1.5">
                 <span className="sr-only">GFG</span>
                 <img
                   alt=""
@@ -62,10 +59,7 @@ export default function Hero() {
               ))}
             </div>
             <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-              <a
-                href="#"
-                className="text-sm font-semibold leading-6 text-white bg-black p-2 rounded-2xl px-4"
-              >
+              <a className="text-sm font-semibold leading-6 text-white bg-black p-2 rounded-2xl px-4">
                 Open App
               </a>
             </div>
@@ -115,10 +109,7 @@ export default function Hero() {
                     ))}
                   </div>
                   <div className="py-6">
-                    <a
-                      href="#"
-                      className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-                    >
+                    <a className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">
                       Open App
                     </a>
                   </div>
@@ -165,10 +156,7 @@ export default function Hero() {
                 Learn, create, and innovate with the most versatile pl.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
-                <a
-                  href="#"
-                  className="rounded-md bg-gray-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-gray-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-                >
+                <a className="rounded-md bg-gray-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-gray-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
                   Get started
                 </a>
               </div>

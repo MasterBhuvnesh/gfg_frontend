@@ -21,7 +21,6 @@ export default function Footer() {
               <ul className="mt-8 flex gap-6">
                 <li>
                   <a
-                    href="#"
                     rel="noreferrer"
                     target="_blank"
                     className="text-gray-700 transition hover:opacity-75"
@@ -45,7 +44,6 @@ export default function Footer() {
 
                 <li>
                   <a
-                    href="#"
                     rel="noreferrer"
                     target="_blank"
                     className="text-gray-700 transition hover:opacity-75"
@@ -65,7 +63,6 @@ export default function Footer() {
 
                 <li>
                   <a
-                    href="#"
                     rel="noreferrer"
                     target="_blank"
                     className="text-gray-700 transition hover:opacity-75"
@@ -95,39 +92,27 @@ export default function Footer() {
 
                 <ul className="mt-6 space-y-4 text-sm">
                   <li>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75"
-                    >
+                    <a className="text-gray-700 transition hover:opacity-75">
                       {" "}
                       Brand{" "}
                     </a>
                   </li>
 
                   <li>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75"
-                    >
+                    <a className="text-gray-700 transition hover:opacity-75">
                       {" "}
                       FAQ{" "}
                     </a>
                   </li>
 
                   <li>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75"
-                    >
+                    <a className="text-gray-700 transition hover:opacity-75">
                       {" "}
                       Help & Support{" "}
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75"
-                    >
+                    <a className="text-gray-700 transition hover:opacity-75">
                       {" "}
                       Governance{" "}
                     </a>
@@ -140,30 +125,21 @@ export default function Footer() {
 
                 <ul className="mt-6 space-y-4 text-sm">
                   <li>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75"
-                    >
+                    <a className="text-gray-700 transition hover:opacity-75">
                       {" "}
                       Technical Paper{" "}
                     </a>
                   </li>
 
                   <li>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75"
-                    >
+                    <a className="text-gray-700 transition hover:opacity-75">
                       {" "}
                       Security{" "}
                     </a>
                   </li>
 
                   <li>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75"
-                    >
+                    <a className="text-gray-700 transition hover:opacity-75">
                       {" "}
                       Game Design{" "}
                     </a>
@@ -176,30 +152,21 @@ export default function Footer() {
 
                 <ul className="mt-6 space-y-4 text-sm">
                   <li>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75"
-                    >
+                    <a className="text-gray-700 transition hover:opacity-75">
                       {" "}
                       Privacy Policy{" "}
                     </a>
                   </li>
 
                   <li>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75"
-                    >
+                    <a className="text-gray-700 transition hover:opacity-75">
                       {" "}
                       Terms of Use{" "}
                     </a>
                   </li>
 
                   <li>
-                    <a
-                      href="#"
-                      className="text-gray-700 transition hover:opacity-75"
-                    >
+                    <a className="text-gray-700 transition hover:opacity-75">
                       {" "}
                       Contact{" "}
                     </a>
